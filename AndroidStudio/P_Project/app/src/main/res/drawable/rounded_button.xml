@@ -1,0 +1,8 @@
+<!-- res/drawable/rounded_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#673AB7" />
+    <corners android:radius="8dp" /> <!-- 조절 가능한 값 -->
+    <stroke
+        android:color="#673AB7"
+        android:width="2dp"/>
+</shape>

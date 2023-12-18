@@ -1,0 +1,8 @@
+<!-- res/drawable/border_top.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:bottom="1dp"> <!-- 상단에 1dp의 선을 그립니다. -->
+        <shape>
+            <solid android:color="#000000" /> <!-- 선의 색상을 지정합니다. -->
+        </shape>
+    </item>
+</layer-list>

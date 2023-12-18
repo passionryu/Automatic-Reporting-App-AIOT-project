@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!--ImageView
+        android:id="@+id/imageViewAccident"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/dummy"
+        android:layout_marginRight="15dp"/!-->
+
+    <LinearLayout
+        android:id="@+id/background_loglist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+        <TextView
+            android:id="@+id/dateTxt_log_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date: YYYY-MM-DD"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/locTxt_log_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location: Latitude, Longitude"
+            android:textSize="16sp"
+            android:layout_marginTop="4dp" />
+
+        <TextView
+            android:id="@+id/IDTokenTxt_log_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="idToken: "
+            android:textSize="16sp"
+            android:layout_marginTop="4dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        android:layout_margin="4dp"></LinearLayout>
+
+</LinearLayout>
