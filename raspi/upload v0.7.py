@@ -1,6 +1,7 @@
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
+import RPi.GPIO as GPIO
 import time
 import Adafruit_ADXL345
 import numpy as np
