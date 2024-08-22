@@ -41,22 +41,13 @@
 </p>
 
 
+<h5>디바이스 기능, 사용자 기능 , 관리자 기능</h5>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/df27893a-e760-4ac0-9d8b-562b244ec4bd" width="30%">
   <img src="https://github.com/user-attachments/assets/96db5599-6804-4453-af5f-2d517a0d88117" width="30%">
   <img src="https://github.com/user-attachments/assets/0be04c9b-184b-47fa-b1fd-6f7dd4465270" width="30%">
 </p>
-
-
-<h3>디바이스 기능</h3>
-
-![디바이스 기능](https://github.com/user-attachments/assets/df27893a-e760-4ac0-9d8b-562b244ec4bd)
-<h3>사용자 기능</h3>
-
-![사용자 기능](https://github.com/user-attachments/assets/96db5599-6804-4453-af5f-2d517a0d8811)
-<h3>관리자 기능</h3>
-
-![관리자 기능](https://github.com/user-attachments/assets/0be04c9b-184b-47fa-b1fd-6f7dd4465270)
 
 
 <h2>작동 원리 </h2>
