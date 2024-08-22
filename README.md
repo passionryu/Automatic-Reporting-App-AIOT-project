@@ -1,8 +1,8 @@
-#2023년도 P-project sw 개발 경연대회
+2023년도 P-project sw 개발 경연대회
 
-#총 28개 팀 中 최우수팀 
+총 28개 팀 中 최우수팀 
 
-#팀명: 킥라니 구조대
+<h1>킥라니 구조대</h1>
 ![킬라니 구조대 로고](https://github.com/user-attachments/assets/3bcabd4b-8f2f-4da6-8175-d0f00de02fd3)
 
 #대회명: P-project sw개발 경연대회
@@ -11,21 +11,12 @@
 
 #팀원: 류성열(팀장), 장찬진, 손현철, 안지훈
 
-#역할 분배
+<h1>팀 소개</h1>
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
 
-#HW제작, 임베디드 SW 개발 : 류성열, 안지훈
 
-#Android 개발 : 정찬진
-
-#AI 모델 개발 : 손현철
-
-
-
-#서비스 내용
-
-#KT자동신고 휠체어를 모방하여, 길거리의 전동킥보드의 사고 발생시 119에 자동 혹은 수동으로 신고하는 SW 시스템을 개발하였다.
+<h1> 서비스 내용 </h1>
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
 
