@@ -14,9 +14,14 @@
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
 
-<h3>서비스 내용 </h3>
+<h3>프로젝트 기획 </h3>
 
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
+
+<h3>기대 효과 </h3>
+
+![기대효과](https://github.com/user-attachments/assets/36792a02-c52a-4c27-8ead-fe298475f0ac)
+
 
 <h5>로그인, 회원 가입, 사용자 화면, 전화번호 추가</h5>
 <p align="center">
@@ -26,6 +31,7 @@
   <img src="https://github.com/user-attachments/assets/c33a3261-0d1f-4873-af78-e6794f9aa90e" width="22%">
 </p>
 
+
 <h5>회원 정보 수정, 회원 조회 , 기록 조회, 사고기록 조회</h5>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/29690403-bfcb-4ce0-866f-21b679b9d4b0" width="22%">
@@ -34,6 +40,12 @@
   <img src="https://github.com/user-attachments/assets/f8cb1434-cd3c-43f3-8f40-a566b2f00ec8" width="22%">
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df27893a-e760-4ac0-9d8b-562b244ec4bd" width="30%">
+  <img src="https://github.com/user-attachments/assets/96db5599-6804-4453-af5f-2d517a0d88117" width="30%">
+  <img src="https://github.com/user-attachments/assets/0be04c9b-184b-47fa-b1fd-6f7dd4465270" width="30%">
+</p>
 
 
 <h3>디바이스 기능</h3>
