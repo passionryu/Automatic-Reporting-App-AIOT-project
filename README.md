@@ -1,4 +1,4 @@
-<h1>2023년도 P-project sw 개발 경연대회</h1>
+<h1>2023년도 교내 P-project sw 개발 경연대회</h1>
 
 ![킬라니 구조대 로고](https://github.com/user-attachments/assets/641c6e51-8a62-48ee-8da3-ab898274c3ae)
 
