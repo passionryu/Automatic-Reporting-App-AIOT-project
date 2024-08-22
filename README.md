@@ -10,13 +10,16 @@
 팀원: 류성열(팀장), 장찬진, 손현철, 안지훈
 
 팀 소개
+
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
 프로젝트 설계도
+
 ![프로젝트 설계도](https://github.com/user-attachments/assets/360091aa-cc9a-4956-a9d1-6380df1fe346)
 
 
 서비스 내용 
+
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
 
