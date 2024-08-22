@@ -2,15 +2,15 @@
 
 총 28개 팀 中 최우수팀 
 
-킥라니 구조대
+
 ![킬라니 구조대 로고](https://github.com/user-attachments/assets/641c6e51-8a62-48ee-8da3-ab898274c3ae)
 
 
-#대회명: P-project sw개발 경연대회
+대회명: P-project sw개발 경연대회
 
-#제작물: 교통사고 발생 시 자동/ 수동 신고 시스템
+제작물: 교통사고 발생 시 자동/ 수동 신고 시스템
 
-#팀원: 류성열(팀장), 장찬진, 손현철, 안지훈
+팀원: 류성열(팀장), 장찬진, 손현철, 안지훈
 
 팀 소개
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
