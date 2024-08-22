@@ -2,8 +2,9 @@
 
 총 28개 팀 中 최우수팀 
 
-<h1>킥라니 구조대</h1>
-![킬라니 구조대 로고](https://github.com/user-attachments/assets/3bcabd4b-8f2f-4da6-8175-d0f00de02fd3)
+킥라니 구조대
+![킬라니 구조대 로고](https://github.com/user-attachments/assets/641c6e51-8a62-48ee-8da3-ab898274c3ae)
+
 
 #대회명: P-project sw개발 경연대회
 
@@ -11,12 +12,12 @@
 
 #팀원: 류성열(팀장), 장찬진, 손현철, 안지훈
 
-<h1>팀 소개</h1>
+팀 소개
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
 
 
-<h1> 서비스 내용 </h1>
+서비스 내용 
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
 
