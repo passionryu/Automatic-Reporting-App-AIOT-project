@@ -10,6 +10,9 @@
 
 제작물: AI 기반 전동 킥보드 교통사고 발생 시 119 자동신고 어플리케이션(+수동 신고 기능 추가)
 
+      -본 어플리케이션은 공유형 전동킥보드 조작 기능 없이 오직 신고기능만 개발되어 있다.
+      -고로, 해당 어플리케이션은 현재 시중에 나와있는 공유형전동킥보드 조작 어플리케이션에 신고기능을 추가하는 형식으로 컨셉을 정하였다.
+
 팀원: 류성열(팀장), 장찬진, 손현철, 안지훈
 
 <h3>팀 소개</h3>
@@ -29,7 +32,7 @@
 ![기대효과](https://github.com/user-attachments/assets/36792a02-c52a-4c27-8ead-fe298475f0ac)
 
 
-<h5>로그인, 회원 가입, 사용자 화면, 전화번호 추가</h5>
+<h5>사용자-로그인, 회원 가입, 사용자 화면, 전화번호 추가</h5>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3eb56e68-24fa-4029-a520-5d69ee611fe5" width="22%">
   <img src="https://github.com/user-attachments/assets/bc7d2f0a-84a2-44f1-8262-25239c27fcf0" width="22%">
@@ -38,7 +41,7 @@
 </p>
 
 
-<h5>회원 정보 수정, 회원 조회 , 기록 조회, 사고기록 조회</h5>
+<h5>관리자-회원 정보 수정, 회원 조회 , 기록 조회, 사고기록 조회</h5>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/29690403-bfcb-4ce0-866f-21b679b9d4b0" width="22%">
   <img src="https://github.com/user-attachments/assets/9d59cdfb-aed0-47a7-8f41-d99138fb5d37" width="22%">
