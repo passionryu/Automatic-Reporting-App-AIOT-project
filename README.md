@@ -12,13 +12,39 @@
 팀 소개
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
+프로젝트 설계도
 ![프로젝트 설계도](https://github.com/user-attachments/assets/360091aa-cc9a-4956-a9d1-6380df1fe346)
 
 
 서비스 내용 
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
+<p align="center">
 
+
+https://github.com/user-attachments/assets/66acf97f-767c-4045-9ce6-7fdd15f6be7a
+
+
+https://github.com/user-attachments/assets/188f1898-9369-41d1-b363-a4e7377603f0
+
+
+
+
+
+https://github.com/user-attachments/assets/3d6f2bba-3319-4097-a9da-8a7c38e9e826
+
+
+
+
+
+
+https://github.com/user-attachments/assets/142cf51c-9f70-4f75-9e98-c6fa4c57a2b1
+
+
+
+
+
+</p>
 #킥보드에 라즈베리 파이를 중심으로 기울기 측정 센서,속도 측정 센서, 진동 센서 등을 부착하여 킥보드 주행 시 발생하는 속도, 기울기 , 진동 변화등을 감지
 
 #감지한 센싱데이터를 여러가지 사고 상황을 가정한 파이썬 알고리즘에 대입한 후 결과 값을 사전 학습된 AI 모델에 주입 후 AI 모델이 사고인지 아닌지 판단
