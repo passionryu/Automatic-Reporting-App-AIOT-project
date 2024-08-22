@@ -3,9 +3,6 @@
 ![킬라니 구조대 로고](https://github.com/user-attachments/assets/641c6e51-8a62-48ee-8da3-ab898274c3ae)
 
 
-https://github.com/user-attachments/assets/f850b900-c5a3-4d6c-a117-2c2166d0670f
-
-
 
 대회명: P-project sw개발 경연대회 -총 28개 팀 中 최우수팀 수상
 
@@ -52,6 +49,26 @@ https://github.com/user-attachments/assets/f850b900-c5a3-4d6c-a117-2c2166d0670f
   <img src="https://github.com/user-attachments/assets/96db5599-6804-4453-af5f-2d517a0d88117" width="30%">
   <img src="https://github.com/user-attachments/assets/0be04c9b-184b-47fa-b1fd-6f7dd4465270" width="30%">
 </p>
+
+<h2>시연 영상</h2>
+
+<h4>자동 신고</h4>
+
+https://github.com/user-attachments/assets/3b616a08-d639-4a5f-beeb-77df5e89104d
+
+<h4>자동 신고 + 신고 취소</h4>
+
+https://github.com/user-attachments/assets/0fa819b4-f078-4a44-9ea8-2e54ca7f3810
+
+<h4>수동 신고</h4>
+
+https://github.com/user-attachments/assets/a81602c3-82ac-454b-a477-cda7e48f48f8
+
+<h4>수동 신고 + 신고 취소</h4>
+
+https://github.com/user-attachments/assets/503ac04b-7129-483e-8e11-a64a196b94cd
+
+
 
 
 <h2>작동 원리 </h2>
