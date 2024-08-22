@@ -19,12 +19,8 @@
 서비스 내용 
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/66acf97f-767c-4045-9ce6-7fdd15f6be7a" width="22%">
-  <img src="https://github.com/user-attachments/assets/188f1898-9369-41d1-b363-a4e7377603f0" width="22%">
-  <img src="https://github.com/user-attachments/assets/3d6f2bba-3319-4097-a9da-8a7c38e9e826" width="22%">
-  <img src="https://github.com/user-attachments/assets/142cf51c-9f70-4f75-9e98-c6fa4c57a2b1" width="22%">
-</p>
+
+
 
 #킥보드에 라즈베리 파이를 중심으로 기울기 측정 센서,속도 측정 센서, 진동 센서 등을 부착하여 킥보드 주행 시 발생하는 속도, 기울기 , 진동 변화등을 감지
 
