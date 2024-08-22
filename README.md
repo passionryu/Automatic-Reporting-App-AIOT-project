@@ -1,12 +1,9 @@
 2023년도 P-project sw 개발 경연대회
 
-총 28개 팀 中 최우수팀 
-
-
 ![킬라니 구조대 로고](https://github.com/user-attachments/assets/641c6e51-8a62-48ee-8da3-ab898274c3ae)
 
 
-대회명: P-project sw개발 경연대회
+대회명: P-project sw개발 경연대회 -총 28개 팀 中 최우수팀 수상
 
 제작물: 교통사고 발생 시 자동/ 수동 신고 시스템
 
