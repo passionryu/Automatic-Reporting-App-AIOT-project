@@ -23,6 +23,22 @@
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3eb56e68-24fa-4029-a520-5d69ee611fe5" width="22%">
+  <img src="https://github.com/user-attachments/assets/bc7d2f0a-84a2-44f1-8262-25239c27fcf0" width="22%">
+  <img src="https://github.com/user-attachments/assets/8ddb1efa-7e88-4f6e-a66c-4d9c6c7a0493" width="22%">
+  <img src="https://github.com/user-attachments/assets/c33a3261-0d1f-4873-af78-e6794f9aa90e" width="22%">
+</p>
+
+
+
+
+
+
+
+
+
+
 <h3>디바이스 기능</h3>
 
 ![디바이스 기능](https://github.com/user-attachments/assets/df27893a-e760-4ac0-9d8b-562b244ec4bd)
