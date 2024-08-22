@@ -22,7 +22,7 @@
 
 ![프로젝트 기획](https://github.com/user-attachments/assets/1acf4340-d26e-4264-9e90-c7c65b2e7142)
 
-
+<h5>로그인, 회원 가입, 사용자 화면, 전화번호 추가</h5>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3eb56e68-24fa-4029-a520-5d69ee611fe5" width="22%">
   <img src="https://github.com/user-attachments/assets/bc7d2f0a-84a2-44f1-8262-25239c27fcf0" width="22%">
@@ -30,12 +30,13 @@
   <img src="https://github.com/user-attachments/assets/c33a3261-0d1f-4873-af78-e6794f9aa90e" width="22%">
 </p>
 
-
-
-
-
-
-
+<h5>회원 정보 수정, 회원 조회 , 기록 조회, 사고기록 조회</h5>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29690403-bfcb-4ce0-866f-21b679b9d4b0" width="22%">
+  <img src="https://github.com/user-attachments/assets/9d59cdfb-aed0-47a7-8f41-d99138fb5d37" width="22%">
+  <img src="https://github.com/user-attachments/assets/58b9391a-d759-4638-990e-f45ec8f3ad6e" width="22%">
+  <img src="https://github.com/user-attachments/assets/f8cb1434-cd3c-43f3-8f40-a566b2f00ec8" width="22%">
+</p>
 
 
 
