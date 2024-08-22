@@ -14,6 +14,9 @@
 
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
+<h3>제작물 외관</h3>
+
+![외관](https://github.com/user-attachments/assets/b0ef13db-5fce-4ec3-ac65-9903fdc82277)
 
 <h3>프로젝트 기획 </h3>
 
