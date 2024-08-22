@@ -15,6 +15,7 @@
 팀 소개
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
+![프로젝트 설계도](https://github.com/user-attachments/assets/360091aa-cc9a-4956-a9d1-6380df1fe346)
 
 
 서비스 내용 
@@ -30,3 +31,11 @@
 #만약 사고가 나지 않았는데 AI 모델이 잘못 판단하여 사고발생 메시지를 보내려 할 시, 5초 이내에 전송취소 버튼을 누르면 전송이 취소 된다.
 
 #만약 사고가 났는데, AI모델이 잘못 판단하여 메시지를 보내지 않을시 주변 사람이 직접 전화하여 현재위치를 말할 필요 없이, 수동신고 버튼을 누르면 자동으로 현재 위치가 구조대와 지인들에게 전송된다.
+![디바이스 기능](https://github.com/user-attachments/assets/df27893a-e760-4ac0-9d8b-562b244ec4bd)
+![사용자 기능](https://github.com/user-attachments/assets/96db5599-6804-4453-af5f-2d517a0d8811)
+![관리자 기능](https://github.com/user-attachments/assets/0be04c9b-184b-47fa-b1fd-6f7dd4465270)
+
+
+
+
+
