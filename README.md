@@ -13,10 +13,6 @@
 
 ![팀소개](https://github.com/user-attachments/assets/cb177f61-2b68-4017-8479-6160e2c1f322)
 
-<h3>프로젝트 설계도</h3>
-
-![프로젝트 설계도](https://github.com/user-attachments/assets/360091aa-cc9a-4956-a9d1-6380df1fe346)
-
 
 <h3>서비스 내용 </h3>
 
